@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 🧑🏽‍💻  DevAndy
+이제 막 개발을 시작한 개린이입니다. 잘부탁드립니다 :)
 <!--
 **devyoungjin/devyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
