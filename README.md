@@ -1,4 +1,5 @@
-### 🧑🏽‍💻  DevAndy
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjinmo%2Fyoungjinmo&count_bg=%23F4A9A9&title_bg=%23000000&icon=spring.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🧑🏽‍💻  DevAndy
 이제 막 개발을 시작한 개린이입니다. 잘부탁드립니다 :)
 <!--
 **devyoungjin/devyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
