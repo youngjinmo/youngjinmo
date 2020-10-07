@@ -5,7 +5,7 @@ SI기업에 소속되어 있으며, 금융권 프로젝트를 수행중입니다
 
 ## ⚡ I've learned ...
 <details>
-  <summary>👉 expand!</summary>
+  <summary>👉 저 이런거 해봤어요!</summary>
   <ul>
     <li><h3>Java</h3></li>
     <ul>
