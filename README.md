@@ -4,29 +4,46 @@
 SI기업에 소속되어 있으며, 금융권 프로젝트를 수행중입니다.
 
 ## ⚡ I've learned ...
-- ### Java
-  - 객체지향의 주요 개념에 대해 설명할 수 있는정도로 이해하고 있습니다.
-  - 객체지향과 다른 컨셉의 함수형 프로그래밍을 위한 Java 8의 람다와 함수형 인터페이스에도 관심이 있습니다.
-  - 스프링부트를 이용하여 다른 분들과 협업하여 포트폴리오용 웹을 개발한적이 있는데, 스프링시큐리티의 Oauth를 이용하여 로그인을 구현한 경험이 있습니다.
-  - Template engine으로 Thymeleaf, Mustache를 이용한 경험이 있습니다.
-  - 최근엔 Mybatis와 JPA를 공부하고 있습니다. JPA가 Mybatis와 비교하여 어떤 장단점이 있는지를 직접 경험하는 것에 목표를 하고 있습니다.
-- ### DBMS
-  - Oracle 11g와 Mysql을 사용해보았습니다.
-  - JOIN을 사용할 수 있는 수준의 초급 수준이며, 향후 DB 정규화에 대해서도 공부하고 싶습니다.
-- ### Git
-  - 모든 프로젝트나 공부한 내용을 Github으로 관리중입니다.
-  - Rebase를 사용하여 커밋을 통합하거나 커밋 메세지 변경을 할 수 있습니다.
-  - Commite Template를 이용하여 이해하기 쉬운 커밋을 작성하려고 합니다.
-  - 브랜치 전략을 이해하고 있으며, 향후 진행할 사이드 프로젝트(협업)에서는 브랜치 전략을 직접 도입하여 경험하고자 합니다.
-- ### Docker
-  - 평소 DBMS를 이용할 때, 도커를 사용하고 있습니다.
-  - 도커 이미지를 생성하고 Docker Hub에 배포한 경험이 있습니다.
-- ### AWS
-  - EC2에 웹 프로젝트를 배포한 경험이 있습니다.
-  - EIP를 사용하여 고정 IP를 사용해보았습니다.
-  - 구입한 도메인을 AWS route 53을 이용하여 연동해보았습니다.
-- ### Linux
-  - 간단한 커맨드 명령어를 숙지하고 있으며, Vim 에디터를 초급수준으로 다룰줄 압니다.
+<details>
+  <summary>👉 expand!</summary>
+  <ul>
+    <li><h3>Java</h3></li>
+    <ul>
+      <li>객체지향의 주요 개념에 대해 설명할 수 있는정도로 이해하고 있습니다.</li>
+      <li>객체지향과 다른 컨셉의 함수형 프로그래밍을 위한 Java 8의 람다와 함수형 인터페이스에도 관심이 있습니다.</li>
+      <li>스프링부트를 이용하여 다른 분들과 협업하여 포트폴리오용 웹을 개발한적이 있는데, 스프링시큐리티의 Oauth를 이용하여 로그인을 구현한 경험이 있습니다.</li>
+      <li>Template engine으로 Thymeleaf, Mustache를 이용한 경험이 있습니다.</li>
+      <li>최근엔 Mybatis와 JPA를 공부하고 있습니다. JPA가 Mybatis와 비교하여 어떤 장단점이 있는지를 직접 경험하는 것에 목표를 하고 있습니다.</li>
+    </ul>
+    <li><h3>Database</h3></li>
+      <ul>
+        <li>Oracle 11g와 Mysql을 사용해보았습니다.</li>
+        <li>JOIN을 사용할 수 있는 수준의 초급 수준이며, 향후 DB 정규화에 대해서도 공부하고 싶습니다.</li>
+      </ul>
+    <li><h3>Git</h3></li>
+      <ul>
+        <li>모든 프로젝트나 공부한 내용을 Github으로 관리중입니다.</li>
+        <li>Rebase를 사용하여 커밋을 통합하거나 커밋 메세지 변경을 할 수 있습니다.</li>
+        <li>Commite Template를 이용하여 이해하기 쉬운 커밋을 작성하려고 합니다.</li>
+        <li>브랜치 전략을 이해하고 있으며, 향후 진행할 사이드 프로젝트(협업)에서는 브랜치 전략을 직접 도입하여 경험하고자 합니다.</li>
+      </ul>
+    <li><h3>Docker</h3></li>
+      <ul>
+        <li>평소 DBMS를 이용할 때, 도커를 사용하고 있습니다.</li>
+        <li>도커 이미지를 생성하고 Docker Hub에 배포한 경험이 있습니다.</li>
+      </ul>
+    <li><h3>AWS</h3></li>
+      <ul>
+        <li>EC2에 웹 프로젝트를 배포한 경험이 있습니다.</li>
+        <li>EIP를 사용하여 고정 IP를 사용해보았습니다.</li>
+        <li>구입한 도메인을 AWS route 53을 이용하여 연동해보았습니다.</li>
+      </ul>
+    <li><h3>Linux</h3></li>
+      <ul>
+        <li>간단한 커맨드 명령어를 숙지하고 있으며, Vim 에디터를 초급수준으로 다룰줄 압니다.</li>
+      </ul>
+  </ul>
+</details>
 
 ## 🌱 I’m currently learning ...
 - 현재 스프링부트를 이용한 웹개발을 공부중입니다.
@@ -40,7 +57,6 @@ SI기업에 소속되어 있으며, 금융권 프로젝트를 수행중입니다
 ## 📫 How to reach me
 이메일로 연락주시면 감사하겠습니다.
 dev.youngjinmo@gmail.com
-
 
 <!-- **devyoungjin/devyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
