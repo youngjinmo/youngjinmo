@@ -52,11 +52,7 @@ SI기업에 소속되어 있으며, 금융권 프로젝트를 수행중입니다
 - 아직 시작하지 못했지만, 자료구조 공부를 시작해보려 합니다...^^
 
 ## 👯 I’m looking for ...
-스프링부트 또는 자료구조/알고리즘을 함께 공부하실 신입 개발자분들 연락주십쇼!
-
-## 📫 How to reach me
-이메일로 연락주시면 감사하겠습니다.
-dev.youngjinmo@gmail.com
+스프링부트 또는 자료구조/알고리즘을 함께 공부하실 신입 개발자분들! 같이 공부해요!!
 
 <!-- **devyoungjin/devyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
