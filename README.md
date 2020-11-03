@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjinmo%2Fyoungjinmo&count_bg=%23F4A9A9&title_bg=%23000000&icon=spring.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 🔭 I am ...
 현재 n개월차 신입개발자입니다.<br>
-SI기업에 소속되어 있으며, 금융권 프로젝트를 수행중입니다.
+현재 금융권 프로젝트에서 SM 업무를 수행중입니다.
 
 ## ⚡ I've learned ...
 <details>
