@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Youngjin!</h1>
-<h3 align="center">Backend Developer (Java/Spring)</h3>
+<h3 align="center">Backend Developer</h3>
 <div align="center">
   📝 Resume : <a href="https://bit.ly/youngjinmo_resume" target="_blank">https://bit.ly/youngjin-resume</a><br>
   🖥 Blog   : <a href="https://youngjinmo.github.io" target="_blank">https://youngjinmo.github.io</a><br><br>
-  좋은 코드와 좋은 문화를 함께 고민하는 동료들을 찾고있습니다!<br>
-  OOP와 TDD 그리고 JPA에 관심이 많습니다..😻
+  새로운 환경에서 도전을 하게된 신입 개발자입니다.<br>
+  웹 백엔드가 주관심사이나 프론트엔드 프레임워크도 관심이 생겼습니다..^^
 </div>
