@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a web developer working at a sports-focused digital marketing agency.
+
+I’m particularly interested in software architecture and privacy-focused services. I also maintain **Mailhub**, an open-source email alias service.
+
+Recently, I’ve been thinking less about how to maximize the use of AI and more about how to integrate it appropriately into human workflows—using AI where it adds real value without making the working environment unnecessarily dependent on it.
+
+If you’re interested in Mailhub or would like to connect, feel free to reach out:
+
+📧 hello@private-mailhub.com
 <!--
 **youngjinmo/youngjinmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
