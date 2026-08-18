@@ -2,11 +2,11 @@
 
 I’m a web developer working at a sports-focused digital marketing agency.
 
-I’m particularly interested in software architecture and privacy-focused services. I also maintain **Mailhub**, an open-source email alias service.
+I’m particularly interested in software architecture and privacy-focused services. I also maintain **[Mailhub](https://github.com/private-mailhub/mailhub)**, an open-source email alias service.
 
 Recently, I’ve been thinking less about how to maximize the use of AI and more about how to integrate it appropriately into human workflows—using AI where it adds real value without making the working environment unnecessarily dependent on it.
 
-If you’re interested in Mailhub or would like to connect, feel free to reach out:
+If you’re interested in [Mailhub](https://github.com/private-mailhub/mailhub) or would like to connect, feel free to reach out:
 
 📧 hello@private-mailhub.com
 <!--
