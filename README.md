@@ -1,25 +1,11 @@
 ## Hi there 👋
 
-I’m a web developer working at a sports-focused digital marketing agency.
+I’m a web developer working at a digital marketing agency for sports.
 
-I’m particularly interested in software architecture and privacy-focused services. I also maintain **[Mailhub](https://github.com/private-mailhub/mailhub)**, an open-source email alias service.
+I’m interested in software architecture and privacy-focused services. I also maintain [**Mailhub**](https://github.com/private-mailhub/mailhub), an open-source email alias service.
 
-Recently, I’ve been thinking less about how to maximize the use of AI and more about how to integrate it appropriately into human workflows—using AI where it adds real value without making the working environment unnecessarily dependent on it.
+Recently, I’m thinking about how to use AI at the right level for the work that really needs it, rather than simply using AI as much as possible.
 
-If you’re interested in [Mailhub](https://github.com/private-mailhub/mailhub) or would like to connect, feel free to reach out:
+If you are interested in [Mailhub](https://github.com/private-mailhub/mailhub) or want to talk with me, feel free to contact me:
 
-📧 hello@private-mailhub.com
-<!--
-**youngjinmo/youngjinmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 [hello@private-mailhub.com](mailto:hello@private-mailhub.com)
